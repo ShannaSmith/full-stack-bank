@@ -1,0 +1,35 @@
+  .bbnav a{
+    margin-right: 20px;
+  }
+  .bbnav a:hover{
+    border-bottom: 2px solid white;
+    background: white;
+    color:black !important;
+  }
+  .active a{
+    border-bottom: 2px solid white;
+  }
+  .brand-table-td{
+    width: 30%;
+    border-bottom: 0.01em solid rgba(100, 112, 129, 0.25);
+    text-align: center;
+  }
+  .brand-table-th{
+    width: 30%;
+    border-bottom: 2px solid #14633b;
+    text-align: center;
+  }
+  .brand-centered{
+    margin: auto;
+  }
+  .brand-margin{
+    margin-top: 80px;
+  }
+  .brand-table{
+    width: 100%;
+  }
+  .App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
